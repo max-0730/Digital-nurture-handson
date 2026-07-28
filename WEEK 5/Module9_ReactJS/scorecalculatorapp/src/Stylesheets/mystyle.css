@@ -1,0 +1,22 @@
+.container{
+    width: 450px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 2px solid #000;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: darkblue;
+}
+
+h2{
+    color: green;
+}
+
+h3{
+    color: brown;
+}
